@@ -24,8 +24,8 @@ Este proyecto consiste en varios ejercicios y ejemplos en lenguaje C, donde pong
    ```
 
 ## Datos del autor
-- **Nombre**: Jafet
-- **Correo**: jafet@example.com
-- **Carnet**: 12345678
+- **Nombre**: Jafet E.
+- **Correo**: jafet.escobar@galileo.edu
+- **Carnet**: 25002891
 
 ```
